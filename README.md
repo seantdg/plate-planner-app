@@ -1,6 +1,11 @@
-# stopwatch-example
-Ionic framework mobile app for stopwatch-server-example
+# Plate Planner App 
+Mobile App for the Plate Planner project
 
-[![Build Status](https://travis-ci.org/vkarpov15/stopwatch-example.svg?branch=master)](https://travis-ci.org/vkarpov15/stopwatch-example)
+See:
+* https://hack-weekend.com/
+* https://trello.com/b/OZNwSJQJ/plate-planner
+
+
+[![Build Status](https://travis-ci.org/seantdg/plate-planner-app.svg?branch=master)](https://travis-ci.org/seantdg/plate-planner-app)
 
 ...
