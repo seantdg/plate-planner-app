@@ -35,25 +35,23 @@ describe('Login screen ', function() {
 	});
 
 	it('allows a user to enter their email address.');
-		//assert scope.email is null
-		//check email element is present and visible
-		//enter email address
-		//check that scope.email is populated correctly
-	});
+	//assert scope.email is null
+	//check email element is present and visible
+	//enter email address
+	//check that scope.email is populated correctly
 	it('allows a user to enter their password.');
-		//assert scope.password is null
-		//check password element is present and visible
-		//enter password 
-		//check that scope.password is populated correctly
+	//assert scope.password is null
+	//check password element is present and visible
+	//enter password 
+	//check that scope.password is populated correctly
 
-	});
 	it('allows a user to authorize with facebook.');
-		//enter email
-		//enter password
-		//find submit button
-		//click
-		//ensure that /authorize call is sent
-		//validate that response is a redirect to facebook
+	//enter email
+	//enter password
+	//find submit button
+	//click
+	//ensure that /authorize call is sent
+	//validate that response is a redirect to facebook
 	it('allows an existing user to successfully log in.');
 	//enter email
 	//enter password
@@ -74,7 +72,7 @@ describe('Login screen ', function() {
 
 	it('displays a suitable error when an incorrect email address is used.');
 	//enter an email that isn't registered on facebook
-   	//click submite
+	//click submite
 	//validate error	
 
 	it('displays a suitable error when an incorrect password is used.');
